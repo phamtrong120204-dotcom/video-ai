@@ -1,0 +1,215 @@
+{
+  "root_dir": "C:\\Users\\phamtrong\\Desktop\\video agent\\assets\\audio",
+  "asset_count": 19,
+  "assets": [
+    {
+      "name": "body_impact_sweep",
+      "category": "sfx",
+      "file_path": "C:\\Users\\phamtrong\\Desktop\\video agent\\assets\\audio\\sfx\\body_impact_sweep.wav",
+      "duration_sec": 0.5,
+      "sample_rate": 44100,
+      "channels": 2,
+      "format": "wav",
+      "is_procedural": false,
+      "description": "Audio asset for body_impact_sweep"
+    },
+    {
+      "name": "dark_aura_hum",
+      "category": "sfx",
+      "file_path": "C:\\Users\\phamtrong\\Desktop\\video agent\\assets\\audio\\sfx\\dark_aura_hum.wav",
+      "duration_sec": 2.0,
+      "sample_rate": 44100,
+      "channels": 2,
+      "format": "wav",
+      "is_procedural": false,
+      "description": "Audio asset for dark_aura_hum"
+    },
+    {
+      "name": "divine_beam_charge",
+      "category": "sfx",
+      "file_path": "C:\\Users\\phamtrong\\Desktop\\video agent\\assets\\audio\\sfx\\divine_beam_charge.wav",
+      "duration_sec": 0.9,
+      "sample_rate": 44100,
+      "channels": 2,
+      "format": "wav",
+      "is_procedural": false,
+      "description": "Audio asset for divine_beam_charge"
+    },
+    {
+      "name": "earth_shatter_slam",
+      "category": "sfx",
+      "file_path": "C:\\Users\\phamtrong\\Desktop\\video agent\\assets\\audio\\sfx\\earth_shatter_slam.wav",
+      "duration_sec": 1.2,
+      "sample_rate": 44100,
+      "channels": 2,
+      "format": "wav",
+      "is_procedural": false,
+      "description": "Audio asset for earth_shatter_slam"
+    },
+    {
+      "name": "giant_palm_boom",
+      "category": "sfx",
+      "file_path": "C:\\Users\\phamtrong\\Desktop\\video agent\\assets\\audio\\sfx\\giant_palm_boom.wav",
+      "duration_sec": 1.2,
+      "sample_rate": 44100,
+      "channels": 2,
+      "format": "wav",
+      "is_procedural": false,
+      "description": "Audio asset for giant_palm_boom"
+    },
+    {
+      "name": "heavenly_thunder_rumble",
+      "category": "sfx",
+      "file_path": "C:\\Users\\phamtrong\\Desktop\\video agent\\assets\\audio\\sfx\\heavenly_thunder_rumble.wav",
+      "duration_sec": 1.8,
+      "sample_rate": 44100,
+      "channels": 2,
+      "format": "wav",
+      "is_procedural": false,
+      "description": "Audio asset for heavenly_thunder_rumble"
+    },
+    {
+      "name": "heavy_body_hit",
+      "category": "sfx",
+      "file_path": "C:\\Users\\phamtrong\\Desktop\\video agent\\assets\\audio\\sfx\\heavy_body_hit.wav",
+      "duration_sec": 0.65,
+      "sample_rate": 44100,
+      "channels": 2,
+      "format": "wav",
+      "is_procedural": false,
+      "description": "Audio asset for heavy_body_hit"
+    },
+    {
+      "name": "laser_clash_sizzle",
+      "category": "sfx",
+      "file_path": "C:\\Users\\phamtrong\\Desktop\\video agent\\assets\\audio\\sfx\\laser_clash_sizzle.wav",
+      "duration_sec": 0.7,
+      "sample_rate": 44100,
+      "channels": 2,
+      "format": "wav",
+      "is_procedural": false,
+      "description": "Audio asset for laser_clash_sizzle"
+    },
+    {
+      "name": "metal_weapon_clash",
+      "category": "sfx",
+      "file_path": "C:\\Users\\phamtrong\\Desktop\\video agent\\assets\\audio\\sfx\\metal_weapon_clash.wav",
+      "duration_sec": 0.7,
+      "sample_rate": 44100,
+      "channels": 2,
+      "format": "wav",
+      "is_procedural": false,
+      "description": "Audio asset for metal_weapon_clash"
+    },
+    {
+      "name": "multi_clash_rapid",
+      "category": "sfx",
+      "file_path": "C:\\Users\\phamtrong\\Desktop\\video agent\\assets\\audio\\sfx\\multi_clash_rapid.wav",
+      "duration_sec": 0.7,
+      "sample_rate": 44100,
+      "channels": 2,
+      "format": "wav",
+      "is_procedural": false,
+      "description": "Audio asset for multi_clash_rapid"
+    },
+    {
+      "name": "paper_shockwave",
+      "category": "sfx",
+      "file_path": "C:\\Users\\phamtrong\\Desktop\\video agent\\assets\\audio\\sfx\\paper_shockwave.wav",
+      "duration_sec": 1.2,
+      "sample_rate": 44100,
+      "channels": 2,
+      "format": "wav",
+      "is_procedural": false,
+      "description": "Audio asset for paper_shockwave"
+    },
+    {
+      "name": "sky_leap_whoosh",
+      "category": "sfx",
+      "file_path": "C:\\Users\\phamtrong\\Desktop\\video agent\\assets\\audio\\sfx\\sky_leap_whoosh.wav",
+      "duration_sec": 0.85,
+      "sample_rate": 44100,
+      "channels": 2,
+      "format": "wav",
+      "is_procedural": false,
+      "description": "Audio asset for sky_leap_whoosh"
+    },
+    {
+      "name": "staff_whoosh_fast",
+      "category": "sfx",
+      "file_path": "C:\\Users\\phamtrong\\Desktop\\video agent\\assets\\audio\\sfx\\staff_whoosh_fast.wav",
+      "duration_sec": 0.55,
+      "sample_rate": 44100,
+      "channels": 2,
+      "format": "wav",
+      "is_procedural": false,
+      "description": "Audio asset for staff_whoosh_fast"
+    },
+    {
+      "name": "vortex_spin_whoosh",
+      "category": "sfx",
+      "file_path": "C:\\Users\\phamtrong\\Desktop\\video agent\\assets\\audio\\sfx\\vortex_spin_whoosh.wav",
+      "duration_sec": 0.85,
+      "sample_rate": 44100,
+      "channels": 2,
+      "format": "wav",
+      "is_procedural": false,
+      "description": "Audio asset for vortex_spin_whoosh"
+    },
+    {
+      "name": "weapon_ground_scrape",
+      "category": "sfx",
+      "file_path": "C:\\Users\\phamtrong\\Desktop\\video agent\\assets\\audio\\sfx\\weapon_ground_scrape.wav",
+      "duration_sec": 0.65,
+      "sample_rate": 44100,
+      "channels": 2,
+      "format": "wav",
+      "is_procedural": false,
+      "description": "Audio asset for weapon_ground_scrape"
+    },
+    {
+      "name": "whoosh_heavy",
+      "category": "sfx",
+      "file_path": "C:\\Users\\phamtrong\\Desktop\\video agent\\assets\\audio\\sfx\\whoosh_heavy.wav",
+      "duration_sec": 0.85,
+      "sample_rate": 44100,
+      "channels": 2,
+      "format": "wav",
+      "is_procedural": false,
+      "description": "Audio asset for whoosh_heavy"
+    },
+    {
+      "name": "wind_howl",
+      "category": "sfx",
+      "file_path": "C:\\Users\\phamtrong\\Desktop\\video agent\\assets\\audio\\sfx\\wind_howl.wav",
+      "duration_sec": 2.0,
+      "sample_rate": 44100,
+      "channels": 2,
+      "format": "wav",
+      "is_procedural": false,
+      "description": "Audio asset for wind_howl"
+    },
+    {
+      "name": "battle_tension_percussion",
+      "category": "bgm",
+      "file_path": "C:\\Users\\phamtrong\\Desktop\\video agent\\assets\\audio\\bgm\\battle_tension_percussion.wav",
+      "duration_sec": 8.0,
+      "sample_rate": 44100,
+      "channels": 2,
+      "format": "wav",
+      "is_procedural": false,
+      "description": "Audio asset for battle_tension_percussion"
+    },
+    {
+      "name": "dark_myth_orchestral",
+      "category": "bgm",
+      "file_path": "C:\\Users\\phamtrong\\Desktop\\video agent\\assets\\audio\\bgm\\dark_myth_orchestral.wav",
+      "duration_sec": 8.0,
+      "sample_rate": 44100,
+      "channels": 2,
+      "format": "wav",
+      "is_procedural": false,
+      "description": "Audio asset for dark_myth_orchestral"
+    }
+  ]
+}
